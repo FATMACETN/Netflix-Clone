@@ -1,0 +1,37 @@
+.main{
+    background-image: url('../images/TR-en-20230403-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    min-height: 100vh;
+    min-width: 100vh;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: brightness(1);
+}
+
+.cont{
+    background-color: black;
+}
+.accordion-body{
+    background-color:#212529;
+    color: white;
+}
+
+.accordion-header{
+    background-color:#212529;
+    color: white;
+}
+
+
+.accordion-button{
+    background-color:#212529;
+    color: white;
+}
+
+.ll{
+    width: 10rem;
+    height: 3rem;
+}
+
+.mainrow{
+    min-height: 100vh;
+    min-width: 100vh;
+}
